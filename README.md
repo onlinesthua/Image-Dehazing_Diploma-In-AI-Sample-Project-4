@@ -1,4 +1,4 @@
-This is the 4th project focuses on Image Dehazing as a Computer Vision deep learning problem. Image dehazing aims to remove atmospheric haze from images, improving visibility and enhancing image quality. The project will explore the use of Conditional Generative Adversarial Networks (CGANs) to tackle this task.
+This is the 4th project for Diploma in AI focuses on Image Dehazing as a Computer Vision deep learning problem. Image dehazing aims to remove atmospheric haze from images, improving visibility and enhancing image quality. The project will explore the use of Conditional Generative Adversarial Networks (CGANs) to tackle this task.
 
 By implementing a CGAN-based dehazing model, this project explores how generative adversarial networks can be conditioned on input images to generate realistic and haze-free images. The importance of incorporating contextual information from the input image to produce visually pleasing dehazed results will be highlighted as well.
 
